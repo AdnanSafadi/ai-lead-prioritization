@@ -173,8 +173,8 @@ cd apps/backend-express
 pnpm dev
 ```
 
-Endpoints: - `POST {{backend-domain}}/import` -
-`POST {{backend-domain}}/enrich`
+Endpoints: - `POST https://{{backend-domain}}/import` -
+`POST https://{{backend-domain}}/enrich`
 
 ------------------------------------------------------------------------
 
@@ -187,7 +187,7 @@ pnpm dev
 
 Open:
 
-    {{domain}}/dashboard
+    https://{{domain}}/dashboard
 
 ------------------------------------------------------------------------
 
